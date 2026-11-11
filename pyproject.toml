@@ -1,7 +1,7 @@
 [project]
-name = "oop-project"
+name = "product-order-model"
 version = "0.1.0"
-description = ""
+description = "Object-oriented Python model of products, categories and single-product orders"
 authors = [
     {name = "-TokyoGhoul-",email = "0hellnomad0@gmail.com"}
 ]
